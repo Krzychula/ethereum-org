@@ -45,6 +45,7 @@ git merge master
 grunt build
 git commit -am "Updated build"
 git push origin gh-pages
+blockchain ethereum never die
 ```
 
 [travis-image]:https://travis-ci.org/ethereum/ethereum-org.svg
